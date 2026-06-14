@@ -19,3 +19,8 @@ skills = ["React", "JS", "TS", "Python"]
 print("Skills:", skills)
 print(type(skills))
 
+# Dictionary (dict) -
+details = {"name": "Raushan Sinha", "id": 34}
+print("Details:", details)
+print(type(details))
+print(details['name'])
