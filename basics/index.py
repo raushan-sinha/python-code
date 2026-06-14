@@ -13,3 +13,9 @@ print(type(name))
 print(type(num))
 print(type(price))
 print(type(is_logged_in))
+
+# Lists -
+skills = ["React", "JS", "TS", "Python"]
+print("Skills:", skills)
+print(type(skills))
+
