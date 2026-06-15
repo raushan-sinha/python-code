@@ -24,3 +24,7 @@
 # print("Details:", details)
 # print(type(details))
 # print(details['name'])
+
+# Input/Output from the user -
+name = input('Enter name:')
+print('Name: ', name)
