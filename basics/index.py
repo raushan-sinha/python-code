@@ -28,3 +28,7 @@
 # Input/Output from the user -
 name = input('Enter name:')
 print('Name: ', name)
+
+# input() always returns a string
+age = input('Enter age:')  
+print(type(age))
