@@ -26,9 +26,15 @@
 # print(details['name'])
 
 # Input/Output from the user -
-name = input('Enter name:')
-print('Name: ', name)
+# name = input('Enter name:')
+# print('Name: ', name)
 
-# input() always returns a string
-age = input('Enter age:')  
+# # input() always returns a string
+# age = input('Enter age:')  
+# print(type(age))
+
+# Int & Float -
+age = int(input('Enter age: '))
+price = float(input('Price: '))
 print(type(age))
+print(type(price))
