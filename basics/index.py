@@ -51,3 +51,7 @@
 # # Create a list of 5 favorite technologies
 # techs = ['React', 'TS', 'Python', 'AI']
 # print(f'* First Tech: {techs[0]}\n * Second Tech: {techs[3]}' )
+
+# # Create a dictionary -
+# student = {"name": "Raushan", "course": "BCA", "age": 22}
+# print(f"Name: {student['name']} \nCourse: {student['course']} \nAge: {student['age']}")
