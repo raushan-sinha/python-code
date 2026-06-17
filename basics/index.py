@@ -61,3 +61,8 @@
 # num1 = int(input("Enter first num: "))
 # num2 = int(input("Enter second num: "))
 # print(f"Result: {num1 + num2}")
+
+
+# # Take age from user and print -
+# age = int(input("Enter your age: "))
+# print(f'You are {age} years old')
