@@ -47,3 +47,7 @@
 # a = b
 # b = temp
 # print(f'After Swap: a = {a} & b = {b}')
+
+# Create a list of 5 favorite technologies
+techs = ['React', 'TS', 'Python', 'AI']
+print(f'* First Tech: {techs[0]}\n * Second Tech: {techs[3]}' )
