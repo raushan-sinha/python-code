@@ -55,3 +55,9 @@
 # # Create a dictionary -
 # student = {"name": "Raushan", "course": "BCA", "age": 22}
 # print(f"Name: {student['name']} \nCourse: {student['course']} \nAge: {student['age']}")
+
+
+# # Take two numbers from the user and print -
+# num1 = int(input("Enter first num: "))
+# num2 = int(input("Enter second num: "))
+# print(f"Result: {num1 + num2}")
