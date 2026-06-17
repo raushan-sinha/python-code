@@ -30,11 +30,20 @@
 # print('Name: ', name)
 
 # # input() always returns a string
-# age = input('Enter age:')  
+# age = input('Enter age:')
 # print(type(age))
 
 # Int & Float -
-age = int(input('Enter age: '))
-price = float(input('Price: '))
-print(type(age))
-print(type(price))
+# age = int(input('Enter age: '))
+# price = float(input('Price: '))
+# print(type(age))
+# print(type(price))
+
+# # Swap two numbers -
+# a = 5
+# b = 6
+# print(f'Before Swap: a = {a} & b = {b}')
+# temp = a
+# a = b
+# b = temp
+# print(f'After Swap: a = {a} & b = {b}')
