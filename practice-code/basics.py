@@ -38,3 +38,10 @@
 # print(f"Final Price of Mouse with {quantity} quantity is: {quantity * 500}$ ")
 
 
+# # Area Calculator -
+# print("Area of Rectangle")
+# length = int(input("Enter length: "))
+# breadth = int(input("Enter breadth: "))
+# print(f"Area of Rectangle: {length * breadth}")
+
+
