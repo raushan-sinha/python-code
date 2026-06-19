@@ -17,10 +17,16 @@
 #     case '+':
 #         print(f'Addition: {num1 + num2}')
 #     case '-':
-#         print(f'Subtraction: {num1 - num2}')    
+#         print(f'Subtraction: {num1 - num2}')
 #     case '*':
-#         print(f'Multiplication: {num1 * num2}')    
+#         print(f'Multiplication: {num1 * num2}')
 #     case '/':
-#         print(f'Division: {num1 / num2}')   
+#         print(f'Division: {num1 / num2}')
 #     case '_':
-#         print('Unknown Error')     
+#         print('Unknown Error')
+
+
+# Temperature Converter (Celsius to Fahrenheit) -
+celsius = float(input("Enter temperature in Celsius: "))
+fahrenheit = (celsius * 9 / 5) + 32
+print(f"Fahrenheit: {fahrenheit}")
