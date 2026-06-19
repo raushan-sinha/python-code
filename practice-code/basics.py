@@ -21,4 +21,6 @@ match op:
     case '*':
         print(f'Multiplication: {num1 * num2}')    
     case '/':
-        print(f'Division: {num1 / num2}')    
+        print(f'Division: {num1 / num2}')   
+    case '_':
+        print('Unknown Error')     
