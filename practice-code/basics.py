@@ -26,7 +26,7 @@
 #         print('Unknown Error')
 
 
-# Temperature Converter (Celsius to Fahrenheit) -
-celsius = float(input("Enter temperature in Celsius: "))
-fahrenheit = (celsius * 9 / 5) + 32
-print(f"Fahrenheit: {fahrenheit}")
+# # Temperature Converter (Celsius to Fahrenheit) -
+# celsius = float(input("Enter temperature in Celsius: "))
+# fahrenheit = (celsius * 9 / 5) + 32
+# print(f"Fahrenheit: {fahrenheit}")
