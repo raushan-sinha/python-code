@@ -45,3 +45,11 @@
 # print(f"Area of Rectangle: {length * breadth}")
 
 
+# # Full Name Formatter in Lowercase & Uppercase -
+# first_name = str(input("Enter your first name: "))
+# last_name = str(input("Enter your last name: "))
+
+# print(f'Full name: {first_name.upper()} {last_name.upper()}')
+# print(f'Full name: {first_name.lower()} {last_name.lower()}')
+
+
