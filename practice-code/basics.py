@@ -30,3 +30,11 @@
 # celsius = float(input("Enter temperature in Celsius: "))
 # fahrenheit = (celsius * 9 / 5) + 32
 # print(f"Fahrenheit: {fahrenheit}")
+
+
+# # Bill Generator for Mouse -
+# print("A Mouse price is : 500")
+# quantity = int(input("Enter quantity: "))
+# print(f"Final Price of Mouse with {quantity} quantity is: {quantity * 500}$ ")
+
+
