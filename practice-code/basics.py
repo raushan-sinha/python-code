@@ -6,3 +6,19 @@
 
 # print(f'\n ------Profile------ \n\ * Name: {name} / \n\ * Age: {age} / \n\ * Gender: {gender} / \n\ * City: {city} / \n-------------')
 
+
+# Take two numbers from the user -
+num1 = int(input('First Num: '))
+num2 = int(input('Second Num: '))
+
+op = str(input('Choose operator (+, -, *, /) : '))
+
+match op:
+    case '+':
+        print(f'Addition: {num1 + num2}')
+    case '-':
+        print(f'Subtraction: {num1 - num2}')    
+    case '*':
+        print(f'Multiplication: {num1 * num2}')    
+    case '/':
+        print(f'Division: {num1 / num2}')    
