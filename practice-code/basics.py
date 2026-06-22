@@ -53,3 +53,8 @@
 # print(f'Full name: {first_name.lower()} {last_name.lower()}')
 
 
+# # Character Counter -
+# text = str(input('Enter a text: '))
+# print(f'Total Length of text {text}: {len(text)}')
+
+
