@@ -71,3 +71,9 @@
 # for i in range (100):
 #     print(i)
 
+
+# # Print Even numbers -
+# for i in range (1, 20):
+#     if(i % 2 == 0):
+#         print(f"Even: {i}")
+
