@@ -58,3 +58,11 @@
 # print(f'Total Length of text {text}: {len(text)}')
 
 
+# # Email Validator (Basic) -
+# email = input('Enter email: ')
+
+# if '@' in email and '.com' in email:
+#     print('Email is valid')
+# else:
+#     print('Email is invalid')   
+
